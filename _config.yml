@@ -1,0 +1,14 @@
+title: Unneland på Ånneland
+description: Informasjon om bryllupet til Max og Natalie.
+url: "https://www.unnelandpåånneland.no"
+baseurl: ""
+lang: nb
+nav:
+  - title: Hjem
+    url: /
+  - title: Om oss
+    url: /om-oss/
+  # - title: Veien Dit
+  #   url: /veien-dit/
+  - title: Svar
+    url: /rsvp/
